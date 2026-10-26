@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: messenger
-    runtime: node
-    buildCommand: npm install
-    startCommand: npm start
-    plan: free
